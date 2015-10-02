@@ -1,0 +1,13 @@
+# Site settings
+title: C33k's Blog
+email: rltoscano@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  C33k's blog, a tech blog created by Rafael L. Toscano.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://c33k.github.io" # the base hostname & protocol for your site
+twitter_username: toscanorl
+github_username:  c33k
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
