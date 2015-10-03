@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>C33k&#39;s Blog</title>
+		<title>C33k's Blog</title>
 		<description>Another Front End developer Blog.</description>
 		<link>c33k.github.io</link>
 		<atom:link href="c33k.github.io/feed.xml" rel="self" type="application/rss+xml" />
@@ -65,7 +65,7 @@
 				<title>Black and white films</title>
 				
 				
-					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
+					<description>In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
 				
 				<pubDate>Wed, 27 Mar 1929 22:00:00 -0300</pubDate>
 				<link>c33k.github.io/black-and-white-films</link>
@@ -73,7 +73,7 @@
 			</item>
 		
 			<item>
-				<title>Mickey Mouse&#39;s Debut</title>
+				<title>Mickey Mouse's Debut</title>
 				
 				
 					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
