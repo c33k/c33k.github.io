@@ -499,7 +499,7 @@ body {
 }
 
 .brandLogo {
-  background-image: url(../images/logo-white.svg);
+  background-image: url(../images/logo-white.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -514,12 +514,12 @@ body {
 }
 
 .brandLogo--black {
-  background-image: url(../images/logo-black.svg);
+  background-image: url(../images/logo.png);
 }
 
 .textLogo {
   display: block;
-  background-image: url(../images/logo-text-black.svg);
+  background-image: url(../images/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -529,7 +529,7 @@ body {
 }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg);
+  background-image: url(../images/logo-white.png);
 }
 
 .textLogo--sidebar {
@@ -556,7 +556,7 @@ body {
   z-index: 500;
   margin: 0;
   width: 276px;
-  height: 50px;
+  height: 80px;
   background-size: 100%;
   background-position: 0;
   opacity: 0.9;
@@ -566,7 +566,7 @@ body {
 @media (max-width: 767px) {
   .textLogo--frontpage {
     width: 182px;
-    height: 33px;
+    height: 48px;
     top: 99px;
   }
 }
@@ -1813,7 +1813,7 @@ body {
 @media (max-width: 767px) {
   .postMeta-wrapper--frontpage {
     width: 300px;
-    top: 100px;
+    top: 103px;
   }
 }
 
