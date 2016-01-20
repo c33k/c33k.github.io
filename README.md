@@ -1,1 +1,1 @@
- My firt tech Blog.
+ My first tech Blog.
