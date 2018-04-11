@@ -1,44 +1,17 @@
 var gulp = require('gulp'),
-    browserSync = require('browser-sync').create(),
     sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
-    minifycss = require('gulp-minify-css'),
+    minifycss = require('gulp-clean-css'),
     rename = require('gulp-rename'),
     postcss = require('gulp-postcss'),
     imageResize = require('gulp-image-resize'),
     parallel = require("concurrent-transform"),
-    os = require("os"),
-    cp = require('child_process');
-
-var messages = {
-  jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
-};
-
-/**
- * Build the Jekyll Site
- */
-gulp.task('jekyll-build', function (done) {
-    browserSync.notify(messages.jekyllBuild);
-    return cp.spawn('jekyll', ['build', '--config=_config.yml'], {stdio: 'inherit'})
-        .on('close', done);
-});
-
-/**
- * Wait for jekyll-build, then launch the Server
- */
-gulp.task('browser-sync', ['styles', 'jekyll-build'], function() {
-  browserSync.init({
-    server: {
-      baseDir: '_site'
-    },
-    startPath: "/index.html"
-  });
-});
+    os = require("os");
 
 // To support opacity in IE 8
 
 var opacity = function(css) {
-  css.eachDecl(function(decl, i) {
+  css.walkDecls(function(decl, i) {
     if (decl.prop === 'opacity') {
       decl.parent.insertAfter(i, {
         prop: '-ms-filter',
@@ -75,30 +48,7 @@ gulp.task("thumbnails", function () {
 });
 
 /**
- * Watch scss files for changes & recompile
- * Watch html/md files, run jekyll
- * Watch _site generation, reload BrowserSync
- */
-gulp.task('watch', function() {
-  gulp.watch('_scss/**/*.scss', ['styles']);
-  gulp.watch('assets/images/hero/*.{jpg,png}', ['thumbnails']);
-  gulp.watch(['*.html',
-          '*.txt',
-          'about/**',
-          '_posts/*.markdown',
-          'assets/javascripts/**/**.js',
-          'assets/images/**',
-          'assets/fonts/**',
-          '_layouts/**',
-          '_includes/**',
-          'assets/css/**'
-        ],
-        ['jekyll-build']);
-  gulp.watch("_site/index.html").on('change', browserSync.reload);
-});
-
-/**
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['thumbnails', 'browser-sync', 'watch']);
+gulp.task('default', ['thumbnails', 'styles']);

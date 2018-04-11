@@ -1,87 +1,27 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>C33k's Blog</title>
-		<description>Another Front End developer Blog.</description>
-		<link>c33k.github.io</link>
-		<atom:link href="c33k.github.io/feed.xml" rel="self" type="application/rss+xml" />
-		
+		<title>{{ site.name | xml_escape }}</title>
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.posts limit:10 %}
 			<item>
-				<title>A Life of Walt Disney</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
-				
-				<pubDate>Sun, 14 Dec 2014 23:00:00 -0200</pubDate>
-				<link>c33k.github.io/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">c33k.github.io/a-life-of-walt-disney</guid>
+				<title>{{ post.title | xml_escape }}</title>
+				{% if post.author.name %}
+					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+				{% endif %}
+				{% if post.excerpt %}
+					<description>{{ post.excerpt | xml_escape }}</description>
+				{% else %}
+					<description>{{ post.content | xml_escape }}</description>
+				{% endif %}
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
-		
-			<item>
-				<title>Mickey Mouse</title>
-				
-				
-					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
-				
-				<pubDate>Thu, 27 Nov 2014 23:00:00 -0200</pubDate>
-				<link>c33k.github.io/mickey-mouse</link>
-				<guid isPermaLink="true">c33k.github.io/mickey-mouse</guid>
-			</item>
-		
-			<item>
-				<title>Television and later films</title>
-				
-				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
-				
-				<pubDate>Thu, 15 Dec 1983 22:00:00 -0300</pubDate>
-				<link>c33k.github.io/television</link>
-				<guid isPermaLink="true">c33k.github.io/television</guid>
-			</item>
-		
-			<item>
-				<title>Color films</title>
-				
-				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
-				
-				<pubDate>Thu, 17 Nov 1932 23:00:00 -0200</pubDate>
-				<link>c33k.github.io/color-films</link>
-				<guid isPermaLink="true">c33k.github.io/color-films</guid>
-			</item>
-		
-			<item>
-				<title>Comics</title>
-				
-				
-					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
-				
-				<pubDate>Sun, 12 Jan 1930 22:00:00 -0300</pubDate>
-				<link>c33k.github.io/comics</link>
-				<guid isPermaLink="true">c33k.github.io/comics</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
-				
-				<pubDate>Wed, 27 Mar 1929 22:00:00 -0300</pubDate>
-				<link>c33k.github.io/black-and-white-films</link>
-				<guid isPermaLink="true">c33k.github.io/black-and-white-films</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse's Debut</title>
-				
-				
-					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
-				
-				<pubDate>Sat, 17 Nov 1928 22:00:00 -0300</pubDate>
-				<link>c33k.github.io/debut</link>
-				<guid isPermaLink="true">c33k.github.io/debut</guid>
-			</item>
-		
+		{% endfor %}
 	</channel>
 </rss>

@@ -1,0 +1,22 @@
+{
+  "name": "otoscano",
+  "version": "0.0.1",
+  "description": "Website from author Rafael Toscano - a fork of the Mickey theme for Jekyll",
+  "homepage": "http://c33k.github.io",
+  "author": "Rafael Toscano",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c33k"
+  },
+  "devDependencies": {
+    "browser-sync": "~2.9.7",
+    "concurrent-transform": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "~3.0.2",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-postcss": "~6.0.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-sass": "^4.0.1"
+  }
+}
