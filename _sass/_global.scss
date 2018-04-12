@@ -69,8 +69,8 @@ body {
   opacity: 0.9;
 
   @media (max-width: $screen-xs-max) {
-    width: 182px;
-    height: 33px;
-    top: 99px;
+    width: auto;
+    top: 35px;
+    font-size: 3rem;
   }
 }
