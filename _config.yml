@@ -25,7 +25,7 @@ tagline:    'tagline'
 rss:        rss feed url
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url:                        "http://c33k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url:                        "http://c33k.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:           toscanorl
 github_username:            c33k
 disqus:                     c33k # get it on https://disqus.com/admin/
@@ -39,7 +39,6 @@ baseurl_javascripts:        '/assets/javascripts/'
 markdown: kramdown
 highlighter:         pygments
 #theme: minima
-permalink:           /:title/
 
 author:
   name:           	 Rafael L. Toscano
