@@ -25,7 +25,7 @@ var opacity = function(css) {
  * Compile files from sass into both assets/css (for live injecting) and site (for future jekyll builds)
  */
 gulp.task('styles', function() {
-  return gulp.src('_scss/main.scss')
+  return gulp.src('_sass/main.scss')
     .pipe(sass({ outputStyle: 'expanded' }))
     .pipe(autoprefixer({browsers: ['last 2 versions', 'Firefox ESR', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1']}))
     .pipe(postcss([opacity]))
