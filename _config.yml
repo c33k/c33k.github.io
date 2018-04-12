@@ -37,7 +37,7 @@ baseurl_javascripts:        '/assets/javascripts/'
 
 # Build settings
 markdown: kramdown
-highlighter:         pygments
+highlighter:         rouge
 #theme: minima
 permalink:           /:title/
 
