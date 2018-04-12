@@ -42,6 +42,9 @@ highlighter:         rouge
 #theme: minima
 permalink:           /:title/
 
+metainfo:
+  baseurl: "/"
+
 author:
   name:           	 Rafael L. Toscano
   url:            	 http://c33k.github.io
