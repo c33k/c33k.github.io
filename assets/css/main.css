@@ -534,10 +534,12 @@ body {
 .textLogo--sidebar {
   width: 100%;
   height: auto;
-  background-size: contain;
-  background-position: center;
   opacity: 0.8;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
 }
 
 .textLogo--sidebar:hover {
