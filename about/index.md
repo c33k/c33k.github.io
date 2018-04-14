@@ -5,7 +5,7 @@ title: About Rafael L. Toscano
 <article class="postWrapper">
   <section class="section--first section--about is-darkBackgrounded u-table">
     <div class="section-backgroundImage">
-        <img class="post-featuredImage" src="{{site.metainfo.baseurl | site.url}}assets/images/hero/about-header.jpg" style="" alt="">
+        <img class="post-featuredImage" src="{{site.metainfo.baseurl}}assets/images/hero/about-header.jpg" style="" alt="">
     </div>
     <div class="section-gradient"></div>
     <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
