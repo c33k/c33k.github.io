@@ -40,7 +40,7 @@ Que só se vai ao ver outro nascer<br/>
 E o espelho de minha alma multiplica...
 _
 
-<p>Para mais podcasts como esse, siga [minha playlist](https://soundcloud.com/rafael-laranjeira-toscano) no <i>SoundCloud.</i> </p>
+<p>Para mais podcasts como esse, siga <a href="https://soundcloud.com/rafael-laranjeira-toscano">minha playlist</a> no <i>SoundCloud.</i> </p>
 
 
 <i>photo by <a href="http://otoscano.com/" target="_blank">Rafael L. Toscano</a></i>
