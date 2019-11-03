@@ -9,12 +9,12 @@
     "url": "https://github.com/c33k"
   },
   "devDependencies": {
-    "browser-sync": "~2.9.7",
+    "browser-sync": "^2.26.7",
     "concurrent-transform": "^1.0.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "~3.0.2",
     "gulp-clean-css": "^3.9.3",
-    "gulp-image-resize": "^0.13.0",
+    "gulp-image-resize": "^0.13.1",
     "gulp-postcss": "~6.0.0",
     "gulp-rename": "~1.2.2",
     "gulp-sass": "^4.0.1"
