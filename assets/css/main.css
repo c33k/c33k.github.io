@@ -2157,6 +2157,10 @@ body {
   background-image: url(../images/rss--black.svg);
 }
 
+.socialAccount--tech {
+  background-image: url(../images/logo-black.svg);
+}
+
 .section--last {
   position: relative;
   clear: both;

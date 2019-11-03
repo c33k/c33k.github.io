@@ -48,6 +48,7 @@ metainfo:
 author:
   name:           	 Rafael L. Toscano
   url:            	 http://c33k.github.io
+  techurl:           http://otoscano.tech
   facebook:          toscanorl
   twitter:           toscanorl
   #google_plus:       username
@@ -55,6 +56,7 @@ author:
   #dribbble:          username
   pinterest:         toscanorl
   #kiva:              username
+  github:            c33k
 
 #fb_admins:           toscanorl
 #fb_appid:            your facebook app id
