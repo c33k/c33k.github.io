@@ -25,7 +25,7 @@ title: About Rafael L. Toscano
     <div class="container container--content">
       <div class="content-body">
         <h4>About</h4>
-        <p>Born in Niterói, Brazil, Rafael L. Toscano is a Bacharel in Computer Science at UFF and works as a Software Engineer in Poland. Began to write short stories and poetry on a not-so-early age and saved it in his computers or in a tiny notebook. In 2012 created his Facebook page and began to share his texts. But it was in 2014 that he started to update it more frequently and devoted himself to his biggest passion: literature. An avid reader and writer, Rafael is the author and the developer behind OToscano.com and is currently writing his first book.</p>
+        <p>Born in Niterói, Brazil, Rafael L. Toscano is a Sr. Software Engineer who works at Microsoft, Czech Republic. Began to write short stories and poetry on a not-so-early age and saved it in his computers or a tiny notebook. In 2012 created his Facebook page and began to share his texts. But it was in 2014 that he started to update it more frequently and devoted himself to his biggest passion: literature. An avid reader and writer, Rafael is the writer and the developer behind OToscano.com and is currently writing his first book.</p>
         <!-- <h4>Motto</h4>
         <p class="u--startsWithDoubleQuote">“If you can dream it, you can do it. Always remember that this whole thing was started with a dream and a mouse.” - Walt Disney</p>
         <h4>Goals (short term)</h4>
