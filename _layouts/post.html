@@ -35,7 +35,7 @@ layout: default
               By {{ site.author.name }}
             </li>
             <li class="postMeta-tags">
-              {{ page.categories }}
+              <a href="{{site.baseurl}}/categories/#{{page.categories|slugize}}">{{ page.categories }}</a>              
             </li>
           </ul>
         </div>
