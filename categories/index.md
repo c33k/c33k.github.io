@@ -7,7 +7,7 @@ bgGradientOpacity: darker
 ---
 
 <article class="postWrapper">
-  <section class="section--first section--frontpage" id="categories-title">
+  <section class="section--first section--frontpage section--categories" id="categories-title">
     <div class="section-title">
         <div class="container">
         <h1 class="textLogo textLogo--frontpage">

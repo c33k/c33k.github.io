@@ -27,6 +27,15 @@
   }
 }
 
+.section--categories {
+  height: 10 * $leading;
+  background-color: #eeeeee;
+
+  @media (max-width: $screen-xs-max) {
+    height: 6 * $leading;
+  }
+}
+
 .section--about,
 .section-backgroundImage,
 .section--about ~ .post-featuredImage {
