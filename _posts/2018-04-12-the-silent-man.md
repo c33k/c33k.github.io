@@ -4,7 +4,7 @@ title:  "The Silent Man"
 date:   2018-04-13 20:00:00 +0200
 last_modified_at:  2018-04-13 20:00:00 +0200
 excerpt: "A very tiny story about a warrior and its reflections on the battlefield."
-categories: short story
+categories: shortstory
 tags:  short story, epic, fiction
 image:
   feature: the-silent-man.jpg

@@ -3,7 +3,7 @@ layout: post
 title:  "I Disapear"
 date:   2018-04-13 15:30:00 +0200
 last_modified_at:  2018-04-13 15:30:00 +0200
-excerpt: ""
+excerpt: "A small poem, I Disapear."
 categories: poetry
 tags:  poem
 image:

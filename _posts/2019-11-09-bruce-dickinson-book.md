@@ -4,7 +4,7 @@ title:  "Book Review: \"What does this button do?\""
 date: 2019-11-08 19:15:00 +w0200
 last_modified_at: 2019-11-08 00:00:00 +0200
 excerpt: "In this post I review the book \"What does this button do?\", an autobiography from the legendary Bruce Dickinson. Bruce is most famous as the main singer from the iconic heavy metal band Iron Maiden and in this book he tells all the stories his fans was waiting for. From his childhood to his battle agains cancer, he tell us the how he became an airline captain, novelist, radio presenter, beer brewer, international fencer and much more."
-categories: book review
+categories: bookreview
 tags:  book review, Bruce Dickinson, biography
 image:
   feature: wdtbd.jpg

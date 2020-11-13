@@ -40,7 +40,7 @@ baseurl_javascripts:        '/assets/javascripts/'
 markdown: kramdown
 highlighter:         rouge
 #theme: minima
-permalink:           /:title/
+permalink:           /:categories/:title/
 
 metainfo:
   baseurl: "/"

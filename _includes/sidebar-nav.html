@@ -1,5 +1,6 @@
 <nav role="navigation" class="sidebar sidebar--right">
   <a href="{{site.metainfo.baseurl | site.url}}" class="textLogo textLogo--sidebar">{{ site.name }}</a>
+  <a href="{{site.metainfo.baseurl | site.url}}categories/" class="textLogo--sidebar" style="text-align: center; display: block; margin-top: 20px;">CATEGORIES</a>
 
   <ul class="sidebar-recentPosts">
     {% for post in site.posts offset:0 limit:10 %}

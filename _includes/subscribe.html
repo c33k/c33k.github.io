@@ -25,6 +25,9 @@
           </form>
         </div>
       <!--End mc_embed_signup-->
+      {% if page.title != 'Categories' %}
+      <p>Also, don't forget to check our posts organized by <a href="{{site.metainfo.baseurl | site.url}}categories/">CATEGORIES</a>.</p>
+      {% endif %}
     </div>
     <hr/>
   </div>

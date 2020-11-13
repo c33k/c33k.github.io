@@ -4,9 +4,8 @@ title:  "Podcast Poemas Selecionados - E01 - Portuguese"
 date:   2018-05-19 21:00:00 +0200
 last_modified_at:  2018-05-19 21:00:00 +0200
 excerpt: "\"Poemas Selecionados\" é um podcast onde, a cada semana, eu leio um poema - de alguns escritores famosos e outros nem tanto assim - e faço comentários sobre o poema em si, o autor ou mesmo sobre a arte de escrever poesia.
-
 Neste episódio de estréia, realizo a leitura do poema \"Soneto do Amigo\", de Vinicius de Moraes."
-categories: podcast, Poemas Selecionados
+categories: podcast
 tags:  podcast, Poemas Selecionados, poesia, Vinicius de Moraes, Soneto do Amigo
 image:
   feature: friends.jpg
