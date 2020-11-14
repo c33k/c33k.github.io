@@ -3,7 +3,7 @@ layout: post
 title:  "17 April, Warsaw"
 date:   2020-11-14 20:10:00 +0200
 last_modified_at:  2020-11-14 20:02:00 +0100
-excerpt: "A "
+excerpt: "17 April, Warsaw is a small diary entry from a fictional character."
 categories: blog
 tags:  fiction, blog, diary
 image:
