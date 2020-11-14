@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A website created to post my poems, short stories, book reviews and updates about 
   my personal life.
 baseurl: "/" # the subpath of your site, e.g. /blog
-timezone:   Europe/Warsaw
+timezone:   Europe/Prague
 locale:     en_us
 name:				OTOSCANO
 tagline:    'tagline'
