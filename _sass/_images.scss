@@ -60,3 +60,7 @@
 .img--16xLeading {
   height: 16*$leading;
 }
+
+.img.img--fullContainer.textcontent.img--16xLeading {
+  background-size: contain;
+}

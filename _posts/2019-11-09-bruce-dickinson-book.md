@@ -14,8 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-![What does this button do?, by Bruce Dickinson](/assets/images/posts/bruce-dickinson/wdtbd.jpg "\"What does this button do?\", by Bruce Dickinson")
-
 I've started to listen to Iron Maiden when I was 13 years old. It was in 2000, a little after the band released the album "Brave New World". I still remember the day I was introduced to the band. A friend of mine came with the CD in his hands and said:
 
 *"Now that you are into metal, you should listen to these guys!"*
@@ -31,6 +29,8 @@ And the book didn't disappoint me (at least in part, but keep reading...).
 The book starts with Bruce talking about his parents and his childhood. Things were definitely not easy for him but hey, I'm not here to give you spoilers, right? To be honest, this part was pretty boring for me. I think it is because I was **hungry** and anxious to get to the part where he joins Iron Maiden. Like: how did he join the band? How did he meet Steve Harris? Will he tell something about Paul D'ianno and these early days?
 
 Yes, Bruce tells many of these stories and this didn't disappoint me. The only point I'd like to highlight is that he was very careful not to go into details on the lives of other people (eg. he doesn't talk much about Paul D'ianno, about Dave Murray and he never mentions his girlfriends, wife, etc.) so I had this feeling of "I want more". But, you know how it is: we can't get everything we want.
+
+<div class="img img--fullContainer textcontent img--16xLeading" style="background-image: url(/assets/images/posts/bruce-dickinson/wdtbd.jpg);"></div>
 
 What surprised me positively was his ability to tell the stories with refined humour (British humour) and how he was able to recollect funny and nice stories, capturing the essential parts of all the most relevant periods of his life. He ran through stories of many albums of the band, especially the five initial years with Iron Maiden, contributing not only as a singer but as well as a songwriter, and also touring with the band: a very demanding schedule. He even gives many nice insights on the lyrics and the albums itself, like how did they record **The Number of the Beast** and how important was this album for the band; he talks about the song **"Sun and Steel"**, inspired in [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi), and many interesting curiosities like that.
 

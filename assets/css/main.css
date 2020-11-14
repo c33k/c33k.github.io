@@ -504,6 +504,10 @@ hr {
   height: 24rem;
 }
 
+.img.img--fullContainer.textcontent.img--16xLeading {
+  background-size: contain;
+}
+
 html,
 body {
   overflow-x: hidden;
