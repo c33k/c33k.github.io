@@ -14,8 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-# Book Review: ***"What does this button do?"***, by Bruce Dickinson
-
 ![What does this button do?, by Bruce Dickinson](/assets/images/posts/bruce-dickinson/wdtbd.jpg "\"What does this button do?\", by Bruce Dickinson")
 
 I've started to listen to Iron Maiden when I was 13 years old. It was in 2000, a little after the band released the album "Brave New World". I still remember the day I was introduced to the band. A friend of mine came with the CD in his hands and said:
