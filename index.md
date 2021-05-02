@@ -16,7 +16,7 @@ title: OToscano
       <div class="postMeta-wrapper postMeta-wrapper--frontpage">
         <ul class="postMeta">
           <li class="postMeta-tagline">
-            a writers corner 
+            a writer's corner 
           </li>
         </ul>
       </div>
