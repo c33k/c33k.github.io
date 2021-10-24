@@ -27,7 +27,7 @@ rss:        rss feed url
 
 google_analytics: G-SK8R0Z80Z0
 
-url:                        "http://c33k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url:                        "http://otoscano.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:           toscanorl
 github_username:            c33k
 disqus:                     c33k # get it on https://disqus.com/admin/
@@ -48,7 +48,7 @@ metainfo:
 
 author:
   name:           	 Rafael L. Toscano
-  url:            	 http://c33k.github.io
+  url:            	 http://otoscano.com
   techurl:           http://otoscano.tech
   facebook:          toscanorl
   twitter:           toscanorl
