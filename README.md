@@ -1,2 +1,2 @@
-Blog dedicated to the updates about my life as a writer.
-Here you will find some of my poems, short stories and news about the books I'm writing.
+Blog dedicated to the updates about my life as an amateur artist.
+Here you will find posts about bookbinding, calligraphy and many more.
