@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "\"The Path To Mastery\" Series"
-date:   2020-12-08 13:33:00 +0200
-last_modified_at: 2020-12-08 13:33:00 +0200
+date:   2022-12-08 13:33:00 +0200
+last_modified_at: 2022-12-08 13:33:00 +0200
 excerpt: "This is the first post on a series of posts about my journey - as a beginner - trying to become a master bookbinder."
 categories: bookbinding
 tags:  bookbinding, pathtomastery, calligraphy
