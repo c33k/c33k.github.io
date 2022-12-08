@@ -26,7 +26,7 @@ bgGradientOpacity: darker
   <section class="section--last">
     <div class="container container--content">
       <div class="content-body">
-        {% for category in site.categories %}
+        {% for category in site.categories reversed%}
             <div>
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 {% capture base_url %}{{ site.metainfo.baseurl }}{% endcapture %}
