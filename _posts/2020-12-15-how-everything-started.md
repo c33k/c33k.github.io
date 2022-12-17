@@ -28,22 +28,22 @@ I then started that "delicious" phase of paralysis analysis, where you have all 
 
 I bought a started kit for bookbinding from a website called [Schmedt](https://schmedt.com/starter-set-with-bookbinding-tools-for-the-most-common-binding-methods/6281-001) and started following Mr Darryn's tutorials. I started with a simple pamphlet and then jumped to the [Coptic Sewn Journal](https://youtu.be/sxkarOsNhsM) and the "Secret Belgium" binding. 
 
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/pamphlet.jpg);"></div>
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/secretbelgium.jpg);"></div>
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/secretbelgium2.jpg);"></div>
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/coptic.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/pamphlet.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/secretbelgium.jpg);"></div>
+<div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/secretbelgium2.jpg);"></div>
+<div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/coptic.jpg);"></div>
 
 To summarise, I've started following Das Bookbinding's tutorials on weekends without putting too much pressure on them. I have hyper-focus problems, so I didn't want to burn out or get frustrated. All the experience with previous hobbies taught me this valuable lesson: some things you can't rush!
 
 In 2021 I decided to go back to Poland. During the relocation process (which lasted around eight months), I put bookbinding aside and didn't do any project (at least, I can't remember anything significant now). But after I relocated and settled in the new house, I decided to resume my learning and do more projects. Below are some photos of the projects I've recently tried. Keep in mind that my main focus with them was to improve my technique and finally start more elaborated projects.
 
 This was an attempt to rebind transform a paperback into a hardcover. I also created a clamshell box for it, so I could learn how to create these boxes for rare books.
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/hobbit.jpg);"></div>
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/clamshell2.jpg);"></div>
+<div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/hobbit.jpg);"></div>
+<div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/clamshell2.jpg);"></div>
 
 Here is a book I printed and created the whole binding from scratch. For the cover I used blue calf leather and used a marbled paper from a book of papers I bought some time ago. I trimmed the edges with a plough and sprinkled it with blue acrylic paint.
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/almosthalfleather.jpg);"></div>
-<div class="img img--fullContainer textcontent img--5xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/almosthalfleather2.jpg);"></div>
+<div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/almosthalfleather.jpg);"></div>
+<div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/almosthalfleather2.jpg);"></div>
 
 ***
 
