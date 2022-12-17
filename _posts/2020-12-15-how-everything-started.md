@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "\"The Path To Mastery\" - How Everything Started"
-date:   2022-12-15 12:00:00 +0200
-last_modified_at: 2022-12-15 12:00:00 +0200
+title: "\"The Path To Mastery\" - How Everything Started"
+date: 2022-12-17 08:00:00 +0200
+last_modified_at: 2022-12-17 08:00:00 +0200
 excerpt: "Continuing on the \"The Path To Mastery\" series, in this post I talk about how I started in bookbinding."
 categories: bookbinding
-tags:  bookbinding, pathtomastery
+tags: bookbinding, pathtomastery
 image:
   feature: bookbindingbooks.JPEG
   topPosition: 0px
