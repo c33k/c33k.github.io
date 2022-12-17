@@ -41,7 +41,7 @@ This was an attempt to rebind transform a paperback into a hardcover. I also cre
 <div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/hobbit.jpg);"></div>
 <div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/clamshell2.jpg);"></div>
 
-Here is a book I printed and created the whole binding from scratch. For the cover I used blue calf leather and used a marbled paper from a book of papers I bought some time ago. I trimmed the edges with a plough and sprinkled it with blue acrylic paint.
+Here is a book I printed and created the whole binding from scratch. For the cover I used blue goatskin leather and a marbled paper from a book of papers I bought some time ago. I trimmed the edges with a plough and sprinkled it with blue acrylic paint.
 <div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/almosthalfleather.jpg);"></div>
 <div class="img img--fullContainer textcontent img--14xLeading" style="background-image: url(/assets/images/posts/the-path-to-mastery/how-everything-started/almosthalfleather2.jpg);"></div>
 
